@@ -18,6 +18,43 @@ header{
     border-radius: 25px;
 }
 
+.s-titulo{
+margin-left: auto;
+}
+.caixa-titulo{
+    
+    background-color: #2C3740;
+    position: absolute;
+    width: 627px;
+    left: 91px;
+    top: 196px;
+    filter: drop-shadow(10px 10px 0px #000000);
+    text-align: center;
+    
+}
+.titulo{
+    font-family: "Press Start 2P", sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    font-style: normal;
+    color: #28594B;
+    padding-top: 42px;
+    padding-bottom: 28px;
+    text-shadow: 4px 4px 0 #222;
+}
+.subtitulo{
+    font-family: "Press Start 2P", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    padding-bottom: 44px;
+    color: #F2F2F2;
+    text-shadow: #222 4px 4px 0;
+}
+
+
 header img{
     width: 60px;
     height: 60px;
@@ -49,7 +86,7 @@ a::before{
     border-radius: 50px;
 }
 
-#button{
+.button{
     display: inline-block;
     background-color: #F2F2F2;
     color: #2C3740;
@@ -61,7 +98,7 @@ a::before{
     transition: transform 100ms linear ;
 }
 
-#button:hover{
+.button:hover{
     transform: scale(1.05);
     background-color: #8BCEF9;
 }
