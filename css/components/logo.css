@@ -1,0 +1,10 @@
+.logo{
+    color: #F2F2F2;
+    text-shadow: #2C3740 2px 2px 0;
+    font-family: alegreya-sans,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    border: 3px solid #F2F2F2;
+    padding: 5px 5px;
+    border-radius: 25px;
+}
