@@ -47,24 +47,6 @@ a::before{
     border-radius: 50px;
 }
 
-.button{
-    display: inline-block;
-    background-color: #F2F2F2;
-    color: #2C3740;
-    font: 600;
-    padding: 18px 20px;
-    box-shadow: 5px 5px 0 #2C3740;
-    margin-right: 0px;
-    border-radius: 25px;
-    transition: transform 100ms linear ;
-}
-
-.button:hover{
-    transform: scale(1.05);
-    background-color: #8BCEF9;
-}
-
-
 /* Color Theme Swatches in Hex 
 .Grieg-Seafood---Digital-branding-1-hex { color: #2C3740; }
 .Grieg-Seafood---Digital-branding-2-hex { color: #28594B; }
