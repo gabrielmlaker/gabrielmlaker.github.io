@@ -7,7 +7,7 @@ header{
     align-items: center;
 }
 
-.logo{
+.logo h1{
     color: #F2F2F2;
     text-shadow: #2C3740 2px 2px 0;
     font-family: alegreya-sans,sans-serif;
@@ -30,35 +30,11 @@ header{
     text-align: center;
     
 }
-.titulo{
-    font-family: "Press Start 2P", sans-serif;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 40px;
-    font-style: normal;
-    color: #28594B;
-    padding-top: 42px;
-    padding-bottom: 28px;
-    text-shadow: 4px 4px 0 #222;
-}
-.subtitulo{
-    font-family: "Press Start 2P", sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 30px;
-    line-height: 30px;
-    padding-bottom: 44px;
-    color: #F2F2F2;
-    text-shadow: #222 4px 4px 0;
-}
-
 
 header img{
     width: 60px;
     height: 60px;
 }
-
-
 
 nav{
     text-align: right;
