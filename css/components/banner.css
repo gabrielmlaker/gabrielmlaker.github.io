@@ -1,0 +1,23 @@
+.banner{
+    box-sizing: border-box;
+    background-color: aquamarine;
+    height:500px;
+    padding: 115px 90px;
+    border-bottom: dashed 10px #222;
+
+}
+
+.banner .wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 770px;
+}
+
+.banner .box{  
+    margin-bottom:40px;
+}
+
+.banner .navigation{
+    display: flex;
+    justify-content:space-evenly;
+}
