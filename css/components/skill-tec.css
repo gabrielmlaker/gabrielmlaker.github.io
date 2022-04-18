@@ -1,15 +1,12 @@
 .skill-tec{
     display:flex;
-    font-family: "Press Start 2P", sans-serif;
+    font-family: "Bebas Neue", sans-serif;
     font-size:25px;
-    color: #fff;
-
+    color: #F2E3D5;
 }
 
 .skill-tec .icon{
-    margin-right:25px;
-    
-    
+    margin-right:25px;   
 }
 
 .skill-tec .right{

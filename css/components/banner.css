@@ -1,16 +1,16 @@
 .banner{
     box-sizing: border-box;
-    background-color: aquamarine;
+    background-color: #3CA6A6;
     height:500px;
     padding: 115px 90px;
-    border-bottom: dashed 10px #222;
+    border-bottom: solid 10px #F2E3D5;
 
 }
 
 .banner .wrapper{
     display: flex;
     flex-direction: column;
-    width: 770px;
+    width: 400px;
 }
 
 .banner .box{  
@@ -20,4 +20,8 @@
 .banner .navigation{
     display: flex;
     justify-content:space-evenly;
+}
+
+.banner .button{
+    box-shadow: 5px 5px 0 #026773;
 }

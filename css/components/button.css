@@ -1,17 +1,17 @@
 .button{
     display: inline-block;
-    background-color: #F2F2F2;
-    color: #2C3740;
+    background-color: #024959;
+    color: #3CA6A6;
     font: 600;
-    padding: 18px 20px;
-    box-shadow: 5px 5px 0 #2C3740;
+    padding: 15px 20px;
+    box-shadow: 5px 5px 0 #026773;
     margin-right: 0px;
-    border-radius: 25px;
+    border-radius: 15px;
     transition: transform 100ms linear ;
     text-decoration: none;
 }
 
 .button:hover{
     transform: scale(1.05);
-    background-color: #8BCEF9;
+    
 }

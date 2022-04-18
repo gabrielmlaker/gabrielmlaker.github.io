@@ -1,14 +1,13 @@
 .subtitle{
-    font-family: "Press Start 2P", sans-serif;
-    font-style: normal;
-    font-size: 30px;
-    color: #F2F2F2;
-    text-shadow: #222 4px 4px 0;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 40px;
+    color: #F2E3D5;
+    text-shadow: #026773 4px 4px 0;
 }
 
 
 .subtitle.-second{
-    color: #fff;
+    color: #F2E3D5;
     text-align: left;
     text-shadow:none;
 }

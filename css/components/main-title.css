@@ -1,14 +1,13 @@
 .main-title {
-    font-family: "Press Start 2P", sans-serif;
-    font-size: 40px;
-    font-style: normal;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 50px;
     margin-bottom: 28px;
-    color: #28594B;
-    text-shadow: 4px 4px 0 #222;
+    color: #3CA6A6;
+    text-shadow: 4px 4px 0 #026773;
 }
 
 .main-title.-second{
-    color: #fff;
+    color: #F2E3D5;
     text-align: center;
     text-shadow:none;
 }

@@ -1,18 +1,21 @@
 .action{
     display: inline-flex;
     align-items: center;
-    color: #F2F2F2;
+    color: #024959;
     font-size: 20px;
     font-weight: 500;
     text-decoration: none;
     margin-right: 30px;
 }
 
-.action::before{
+.action:hover::before{
+    display: inline-block;
     content: "";
-    background-color: #8BCEF9;
+    background-color: #024959;
     width: 10px;
     height: 10px;
     margin-right: 10px;
     border-radius: 50px;
 }
+
+
