@@ -1,10 +1,10 @@
 .button{
     display: inline-block;
-    background-color: #024959;
-    color: #3CA6A6;
+    background-color: #026773;
+    color: #F2E3D5;
     font: 600;
     padding: 15px 20px;
-    box-shadow: 5px 5px 0 #026773;
+    box-shadow: 5px 5px 0 #012E40;
     margin-right: 0px;
     border-radius: 15px;
     transition: transform 100ms linear ;
