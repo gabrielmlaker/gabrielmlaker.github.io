@@ -1,9 +1,9 @@
 .box{
    
     display: inline-block;
-    background-color: #012E40;
+    background-color: #026773;
     padding: 42px 44px;
     text-align: center;
-    filter: drop-shadow(10px 10px 0px #026773);
+    filter: drop-shadow(10px 10px 0px #012E40);
 
 }
